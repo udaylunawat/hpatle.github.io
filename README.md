@@ -2,9 +2,6 @@
   <a href="https://udaylunawat.github.io/dracarys3.github.io/">Himanshu Patle</a>
 </h3>
 
-This is the first website that I ever built on April 2017, that too just in a few minutes.
-I used free templates from W3School without any prior knowledge of CSS, bootstrap or parallax scrolling effect.
+Designed and developed a friend's Portfolio Website. What is unique about it is, his profile being that of a photographer, it comprises visually aeshthetic elements like parallax scrolling effects and scrolling portfolio of photos and art. Tried to develop it such that it resembles his profile of a photographer.
 
-Well now i do have knowledge about those.
-
-This was built for a friend (Himanshu Patle).
+Visit the website [here](https://udaylunawat.github.io/dracarys3.github.io/)
